@@ -26,7 +26,7 @@ Before running this project, ensure you have the following:
 git clone https://github.com/sb529/crewai.git
 cd crewai
 
-2. Install the required packages
+### 2. Install the required packages
 pip install crewai python-dotenv
 
 3. Set up the environment
