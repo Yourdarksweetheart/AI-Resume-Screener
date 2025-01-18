@@ -7,9 +7,9 @@ load_dotenv()
 
 # Define the job description
 job_description = """
-Job Title: Senior Product Manager - AI Chat Assistant
+Job Title: AI Education Product Manager 
 About the Role:
-We're seeking an innovative Product Manager to lead the development of a cutting-edge AI chat assistant that will transform user interaction and engagement. The ideal candidate will drive product strategy, user experience, and feature development for an intelligent conversational AI platform.
+We're seeking an innovative Product Manager to lead the development of a cutting-edge AI education assistant that will transform user interaction and engagement. The ideal candidate will drive product strategy, user experience, and feature development for an intelligent conversational AI platform.
 
 Key Responsibilities:
 - Define product vision and roadmap for an AI chat assistant
