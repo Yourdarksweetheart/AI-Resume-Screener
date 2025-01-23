@@ -21,7 +21,7 @@ Before running this project, you need to have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sb529/crewai.git
+https://github.com/Yourdarksweetheart/AI-Resume-Screener.git
 cd crewai
 ```
 
